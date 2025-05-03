@@ -33,5 +33,5 @@
 - [x] Add navigation links in the navbar to navigate between the `ProductListing` and `Cart` pages.
 ![image](https://github.com/user-attachments/assets/99985d5d-5409-47ec-b294-672784bf138b)
 
-## Refactor
+## Refactor:
 - [ ] Refactor code to make it clean, readable and more intuitive.
