@@ -34,4 +34,4 @@
 ![image](https://github.com/user-attachments/assets/99985d5d-5409-47ec-b294-672784bf138b)
 
 ## Refactor:
-- [ ] Refactor code to make it clean, readable and more intuitive.
+- [x] Refactor code to make it clean, readable and more intuitive.
