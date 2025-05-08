@@ -35,3 +35,13 @@
 
 ## Refactor:
 - [x] Refactor code to make it clean, readable and more intuitive.
+
+## Code Link:
+- [x] Code can be found on [Stackblitz](https://stackblitz.com/edit/ra-assignment3)
+
+## Video:
+ - [x] [Explanation Video](https://youtu.be/ckkXD43_feM)
+
+## Branding:
+- [ ] App name based on an abstract theme,
+- [ ] Favicon based on the app name.
