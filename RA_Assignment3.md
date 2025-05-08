@@ -43,5 +43,5 @@
  - [x] [Explanation Video](https://youtu.be/ckkXD43_feM)
 
 ## Branding:
-- [ ] App name based on an abstract theme,
+- [x] App name based on an abstract theme,
 - [ ] Favicon based on the app name.
