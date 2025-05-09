@@ -16,15 +16,16 @@
 ### View Books:
 - [x] Display a list of all books in the library.
 - [x] Each book should display its title, author, and status (Read/Unread).
-- [x] Mark as Read/Unread:
-- [ ] Provide a toggle button for each book to mark it as "Read" or "Unread".
-
-_Note: Mark as Read/Unread button is a placeholder for now. Actual functionality hasn't been implemented till now._
 
 ![image](https://github.com/user-attachments/assets/5d6e3522-f1b0-473a-87f7-ebcfa5047b28)
 
+### Mark as Read/Unread:
+- [x] Provide a toggle button for each book to mark it as "Read" or "Unread".
+
 ### Delete Books:
-- [ ] Provide a delete button to remove books from the library.
+- [x] Provide a delete button to remove books from the library.
+
+![ToggleAndDeleteBookDemo](https://github.com/user-attachments/assets/4159c490-a23a-4523-8ff1-27c3f3a8498f)
 
 ### Filter Books:
 Create 3 pills/buttons to filter books by their status:
