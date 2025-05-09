@@ -32,6 +32,8 @@ Use React Router to create separate routes:
   - [x] AllBooks: Displays the list of all books.
   - [x] AddBook: Displays the form to add a new book.
 
+![image](https://github.com/user-attachments/assets/4084c431-cfdb-4411-9ec8-e767ba22193f)
+
 _Please Note: Only the skeleton of these pages has been created till now._
 
 ### Data Persistence:
