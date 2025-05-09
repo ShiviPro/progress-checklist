@@ -3,8 +3,6 @@
 ## Global State:
 - [x] Use useContext to create a BookContext for managing the global state of books.
 
-_Please Note: BookContext is only consumed in AddBook component for now._
-
 ## Features:
 ### Add Books:
 - [x] Create a form to add a book with the following details:
@@ -16,10 +14,14 @@ _Please Note: BookContext is only consumed in AddBook component for now._
 
 
 ### View Books:
-- [ ] Display a list of all books in the library.
-- [ ] Each book should display its title, author, and status (Read/Unread).
-- [ ] Mark as Read/Unread:
+- [x] Display a list of all books in the library.
+- [x] Each book should display its title, author, and status (Read/Unread).
+- [x] Mark as Read/Unread:
 - [ ] Provide a toggle button for each book to mark it as "Read" or "Unread".
+
+_Note: Mark as Read/Unread button is a placeholder for now. Actual functionality hasn't been implemented till now._
+
+![image](https://github.com/user-attachments/assets/5d6e3522-f1b0-473a-87f7-ebcfa5047b28)
 
 ### Delete Books:
 - [ ] Provide a delete button to remove books from the library.
@@ -36,8 +38,6 @@ Use React Router to create separate routes:
   - [x] AddBook: Displays the form to add a new book.
 
 ![image](https://github.com/user-attachments/assets/4084c431-cfdb-4411-9ec8-e767ba22193f)
-
-_Please Note: AllBooks page just has Navbar for now._
 
 ### Data Persistence:
 Use localStorage to save the books so that they persist even after refreshing the page or closing the browser.
