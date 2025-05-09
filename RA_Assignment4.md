@@ -3,14 +3,17 @@
 ## Global State:
 - [x] Use useContext to create a BookContext for managing the global state of books.
 
-_Please Note: BookContext is only created & scoped right now. There is no consumption logic implemented till now._
+_Please Note: BookContext is only consumed in AddBook component for now._
 
 ## Features:
 ### Add Books:
-- [ ] Create a form to add a book with the following details:
+- [x] Create a form to add a book with the following details:
   - Title
   - Author
   - Status (Read/Unread)
+
+![AddBookDemo](https://github.com/user-attachments/assets/42d50533-b608-4980-93f1-fdda13f3e309)
+
 
 ### View Books:
 - [ ] Display a list of all books in the library.
@@ -34,7 +37,7 @@ Use React Router to create separate routes:
 
 ![image](https://github.com/user-attachments/assets/4084c431-cfdb-4411-9ec8-e767ba22193f)
 
-_Please Note: Only the skeleton of these pages has been created till now._
+_Please Note: AllBooks page just has Navbar for now._
 
 ### Data Persistence:
 Use localStorage to save the books so that they persist even after refreshing the page or closing the browser.
