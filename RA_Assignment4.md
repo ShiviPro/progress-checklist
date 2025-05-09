@@ -29,9 +29,11 @@
 
 ### Filter Books:
 Create 3 pills/buttons to filter books by their status:
-  - [ ] All Books (count): To show all books.
-  - [ ] Read Books (count): To show only books marked as "Read".
-  - [ ] Unread Books (count): To show only books marked as "Unread". 
+  - [x] All Books (count): To show all books.
+  - [x] Read Books (count): To show only books marked as "Read".
+  - [x] Unread Books (count): To show only books marked as "Unread". 
+
+![FilterBookDemo](https://github.com/user-attachments/assets/72a48b0b-b4bf-427f-949f-e62e9ee3a052)
 
 ### Navigation:
 Use React Router to create separate routes:
