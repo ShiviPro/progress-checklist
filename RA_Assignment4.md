@@ -44,5 +44,7 @@ Use React Router to create separate routes:
 
 ### Data Persistence:
 Use localStorage to save the books so that they persist even after refreshing the page or closing the browser.
-  - [ ] Load books from localStorage when the app starts.
-  - [ ] Save any changes (add, update, delete) to localStorage.
+  - [x] Load books from localStorage when the app starts.
+  - [x] Save any changes (add, update, delete) to localStorage.
+
+![DataPersistenceDemoCompressed](https://github.com/user-attachments/assets/a1035f04-2b5b-4ac9-bc37-f94ea89c9161)
