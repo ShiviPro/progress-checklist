@@ -54,7 +54,7 @@ Use localStorage to save the books so that they persist even after refreshing th
 - [x] Add a favicon based on the app name along with appropriate credits.
 
 ## Refactoring:
-- [ ] Rearrange the app's code to make it more clean, readable, & intuitive,
+- [x] Rearrange the app's code to make it more clean, readable, & intuitive,
 
 ## Code Link:
 - [x] Here is the [stackblitz project](https://stackblitz.com/edit/ra-assignment4?file=src%2FApp.jsx)
