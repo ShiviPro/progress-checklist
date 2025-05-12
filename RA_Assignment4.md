@@ -48,3 +48,16 @@ Use localStorage to save the books so that they persist even after refreshing th
   - [x] Save any changes (add, update, delete) to localStorage.
 
 ![DataPersistenceDemoCompressed](https://github.com/user-attachments/assets/a1035f04-2b5b-4ac9-bc37-f94ea89c9161)
+
+## Branding:
+- [x] Give a name to the app based on an abstract theme,
+- [x] Add a favicon based on the app name along with appropriate credits.
+
+## Refactoring:
+- [ ] Rearrange the app's code to make it more clean, readable, & intuitive,
+
+## Code Link:
+- [x] Here is the [stackblitz project](https://stackblitz.com/edit/ra-assignment4?file=src%2FApp.jsx)
+
+## Video Link:
+- [ ] Link to the Explanation Video
