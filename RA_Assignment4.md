@@ -60,4 +60,4 @@ Use localStorage to save the books so that they persist even after refreshing th
 - [x] Here is the [stackblitz project](https://stackblitz.com/edit/ra-assignment4?file=src%2FApp.jsx)
 
 ## Video Link:
-- [ ] Link to the Explanation Video
+- [x] [Link](https://youtu.be/G5Tm9ejbOa0) to the Explanation Video
