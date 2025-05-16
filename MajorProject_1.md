@@ -1,5 +1,8 @@
 # Major Project 1 (Mizuki Hanae)
 
+## Code
+Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-hanae)
+
 ## Home Page
 - [ ] A landing page with a list of featured categories.
   - [ ] If you click on any one of the categories I will be redirected to the product list page with that selected category.
