@@ -4,19 +4,20 @@
 Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-hanae)
 
 ## Home Page
-- [ ] A landing page with a list of featured categories.
+- [x] A landing page with a list of featured categories.
   - [ ] If you click on any one of the categories I will be redirected to the product list page with that selected category.
 
 ## Product Listing Page
-- [ ] A product listing page where all the products are listed with a section of filters.
-- [ ] Product Cards should have product image, product name, product price, product rating, add to cart button and add to wishlist (button/icon).
+- [x] A product listing page where all the products are listed with a section of filters.
+- [x] Product Cards should have product image, product name, product price, product rating, add to cart button and add to wishlist (button/icon).
 - [ ] Multiple filters on the product listing page including.
+  - [x] Price: A slider for price.
   - [ ] Category: A checkbox with various categories according to the theme.
   - [ ] Ratings: A slider for ratings.
-- [ ] A button to clear filters from where you can clear all the applied filters.
+- [x] A button to clear filters from where you can clear all the applied filters.
 - On the product cards, you should see two call-to-action buttons,
-  - [ ] Add to Cart: "Add to Cart" primary button should be present.
-  - [ ] Add to Wishlist: "Add to Wishlist" secondary button or "Wishlist" secondary icon button should be present.
+  - [x] Add to Cart: "Add to Cart" primary button should be present.
+  - [x] Add to Wishlist: "Add to Wishlist" secondary button or "Wishlist" secondary icon button should be present.
 
 ## Sort by Price
 - [ ] Along with the multiple filters on the product listing page on the sidebar, add a feature to sort products by price,
