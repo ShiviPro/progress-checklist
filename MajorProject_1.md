@@ -12,7 +12,7 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
 - [x] Product Cards should have product image, product name, product price, product rating, add to cart button and add to wishlist (button/icon).
 - [ ] Multiple filters on the product listing page including.
   - [x] Price: A slider for price.
-  - [ ] Category: A checkbox with various categories according to the theme.
+  - [x] Category: A checkbox with various categories according to the theme.
   - [ ] Ratings: A slider for ratings.
 - [x] A button to clear filters from where you can clear all the applied filters.
 - On the product cards, you should see two call-to-action buttons,
