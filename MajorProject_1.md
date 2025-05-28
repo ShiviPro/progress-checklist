@@ -10,12 +10,10 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
 ## Product Listing Page
 - [x] A product listing page where all the products are listed with a section of filters.
 - [x] Product Cards should have product image, product name, product price, product rating, add to cart button and add to wishlist (button/icon).
-- [ ] Multiple filters on the product listing page including.
+- [x] Multiple filters on the product listing page including.
   - [x] Price: A slider for price.
   - [x] Category: A checkbox with various categories according to the theme.
   - [x] Ratings: A slider for ratings.
- 
-  _Note: Only filter by ratings is working individually. Price & category filters when applied individually, don't work. I'll be working to fix this next._
 - [x] A button to clear filters from where you can clear all the applied filters.
 - On the product cards, you should see two call-to-action buttons,
   - [x] Add to Cart: "Add to Cart" primary button should be present.
