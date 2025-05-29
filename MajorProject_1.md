@@ -5,7 +5,7 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
 
 ## Home Page
 - [x] A landing page with a list of featured categories.
-  - [ ] If you click on any one of the categories I will be redirected to the product list page with that selected category.
+  - [x] If I click on any one of the categories I will be redirected to the product list page with that selected category.
 
 ## Product Listing Page
 - [x] A product listing page where all the products are listed with a section of filters.
