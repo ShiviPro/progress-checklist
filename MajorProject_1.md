@@ -19,6 +19,8 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
   - [x] Add to Cart: "Add to Cart" primary button should be present.
   - [x] Add to Wishlist: "Add to Wishlist" secondary button or "Wishlist" secondary icon button should be present.
 
+*__Todo__: Please look into this: changing the filters on the Products page is not reflected in the url with modified values of search params.* 
+
 ## Sort by Price
 - [ ] Along with the multiple filters on the product listing page on the sidebar, add a feature to sort products by price,
 
