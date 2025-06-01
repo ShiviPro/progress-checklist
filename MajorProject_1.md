@@ -22,9 +22,10 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
 *__Todo__: Please look into this: changing the filters on the Products page is not reflected in the url with modified values of search params.* 
 
 ## Sort by Price
-- [ ] Along with the multiple filters on the product listing page on the sidebar, add a feature to sort products by price,
+- [x] Along with the multiple filters on the product listing page on the sidebar, add a feature to sort products by price,
 
-  - [ ] Price: A radio button to sort from low to high & high to low.
+  - [x] Price: A radio button to sort from low to high.
+  - [x] Price: A radio button to sort from high to low.
 
 ## Product Detail Page
 - [ ] If you click on any product you should be redirected to a single product page with all its details & the "Addto Cart" & "Add to Wishlist" buttons.
