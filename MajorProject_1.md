@@ -28,7 +28,9 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
   - [x] Price: A radio button to sort from high to low.
 
 ## Product Detail Page
-- [ ] If you click on any product you should be redirected to a single product page with all its details & the "Addto Cart" & "Add to Wishlist" buttons.
+- [x] If you click on any product you should be redirected to a single product page with all its details & the "Add to Cart" & "Add to Wishlist" buttons.
+
+_Note: Certain UI bugs need to be fixed. Also, certain components like ratings need to be added in the details page._
 
 ## Wishlist Management
 
