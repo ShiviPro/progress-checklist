@@ -30,7 +30,7 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
 ## Product Detail Page
 - [x] If you click on any product you should be redirected to a single product page with all its details & the "Add to Cart" & "Add to Wishlist" buttons.
 
-_Note: Certain UI bugs need to be fixed. Also, certain components like ratings need to be added in the details page._
+_Note: A section listing other artwork that the user might be interested in, has to be added on the details page._
 
 ## Wishlist Management
 
