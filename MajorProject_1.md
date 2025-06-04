@@ -30,8 +30,6 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
 ## Product Detail Page
 - [x] If you click on any product you should be redirected to a single product page with all its details & the "Add to Cart" & "Add to Wishlist" buttons.
 
-_**Todo**: Current artwork's image doesn't show up in the enlarged view. Instead, the image from a previous one is still loaded on the details page. This only happens when accessing an artwork from the similar items section of details page._
-
 ## Wishlist Management
 
 - [ ] From the navbar, you can navigate to your wishlist where all the products that you liked and wish to buy in future are mentioned.
