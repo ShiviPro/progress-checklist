@@ -36,7 +36,7 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
   - [x] On the product card,
     - [x] You can remove the item from the wishlist
     - [x] Add the item to the cart
-      - [x] If the cart already contains that item, it should only increase the quantity.
+      - [ ] If the cart already contains that item, it should only increase the quantity.
 
 ## Cart Management
 - [x] From the navbar, you can navigate to the cart where all the products that you want to buy are mentioned.
