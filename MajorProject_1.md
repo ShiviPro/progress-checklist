@@ -35,14 +35,14 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
 - [x] From the navbar, you can navigate to your wishlist where all the products that you liked and wish to buy in the future are mentioned.
   - [x] On the product card,
     - [x] You can remove the item from the wishlist
-    - [ ] Add the item to the cart
-      - [ ] If the cart already contains that item, it should only increase the quantity.
+    - [x] Add the item to the cart
+      - [x] If the cart already contains that item, it should only increase the quantity.
 
 ## Cart Management
-- [ ] From the navbar, you can navigate to the cart where all the products that you want to buy are mentioned.
+- [x] From the navbar, you can navigate to the cart where all the products that you want to buy are mentioned.
   - On the product card,
-    - [ ] You can see the quantity of a particular product.
-    - [ ] You can Increase or Decrease the quantity of a particular product.
+    - [x] You can see the quantity of a particular product.
+    - [x] You can Increase or Decrease the quantity of a particular product.
     - [ ] Remove the product from the cart
     - [ ] Add the product to the Wishlist
   - [ ] You can see the price details card of the cart containing a button to checkout which will show the total price of the products with its quantity.
