@@ -43,9 +43,9 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
   - On the product card,
     - [x] You can see the quantity of a particular product.
     - [x] You can Increase or Decrease the quantity of a particular product.
-    - [ ] Remove the product from the cart
+    - [x] Remove the product from the cart
     - [ ] Add the product to the Wishlist
-  - [ ] You can see the price details card of the cart containing a button to checkout which will show the total price of the products with its quantity.
+  - [x] You can see the price details card of the cart containing a button to checkout which will show the total price of the products with its quantity.
 
 ## Address Management
 - [ ] You can add multiple addresses, update or delete them.
