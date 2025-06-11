@@ -44,14 +44,12 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
     - [x] You can see the quantity of a particular product.
     - [x] You can Increase or Decrease the quantity of a particular product.
     - [x] Remove the product from the cart
-    - [ ] Add the product to the Wishlist
+    - [x] Add the product to the Wishlist
   - [x] You can see the price details card of the cart containing a button to checkout which will show the total price of the products with its quantity.
   
  _**What doesn't work?**_
  
-- "Move To Wishlist" btn doesn't work. This is because I was conflicted on how to access WishlistContext in the CartContext as it is only available to the successor components of CartContext & not CartContext itself. Basically what I've done is, I've wrapped RouterProvider with WishlistContext & then wrapped Wishlist Context in CartContext. This makes it so that I can easily access Cart info on the Wishlist page, but what about accessing WishlistContext on the cart page? I'll first look into this.
-
-- Also, since I'm not preserving the index at which an entry was in the cart state array, the cart page has a bug when rendering the cart items. I've basically pushed the newly modified cart entry to the last of the array. This approach even though simple to understand & code, currently results in bad User Experience. I'll have to preserve the original index. I'll do this after solving the above bug, first.
+- Since I'm not preserving the index at which an entry was in the cart state array, the cart page has a bug when rendering the cart items. I've basically pushed the newly modified cart entry to the last of the array. This approach even though simple to understand & code, currently results in bad User Experience. I'll have to preserve the original index.
 
 ## Address Management
 - [ ] You can add multiple addresses, update or delete them.
