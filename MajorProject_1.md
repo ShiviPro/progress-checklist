@@ -48,8 +48,7 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
   - [x] You can see the price details card of the cart containing a button to checkout which will show the total price of the products with its quantity.
   
  _**What doesn't work?**_
- 
-- Since I'm not preserving the index at which an entry was in the cart state array, the cart page has a bug when rendering the cart items. I've basically pushed the newly modified cart entry to the last of the array. This approach even though simple to understand & code, currently results in bad User Experience. I'll have to preserve the original index.
+- Product image doesn't acquire 100% of cart entry's height. 
 
 ## Address Management
 - [ ] You can add multiple addresses, update or delete them.
