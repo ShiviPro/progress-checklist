@@ -46,9 +46,6 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
     - [x] Remove the product from the cart
     - [x] Add the product to the Wishlist
   - [x] You can see the price details card of the cart containing a button to checkout which will show the total price of the products with its quantity.
-  
- _**What doesn't work?**_
-- Product image doesn't acquire 100% of cart entry's height. 
 
 ## Address Management
 - [ ] You can add multiple addresses, update or delete them.
