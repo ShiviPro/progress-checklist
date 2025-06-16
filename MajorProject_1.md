@@ -55,9 +55,9 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
 - [ ] Once you choose the address, you can click on the checkout button which would show the order summary and a message - "Order Placed Successfully." Save orders placed in your backend.
 
 ## User Profile
-- [ ] You can see the user profile with details containing the name, email Id, phone number, address, etc. This data should be static.
+- [x] You can see the user profile with details containing the name, email Id, phone number, address, etc. This data should be static.
 - [ ] You can give the option to Add new address from this page.
-- [ ] You can give the option to see the order history from this page. Order History is all the orders placed previously.
+- [x] You can give the option to see the order history from this page. Order History is all the orders placed previously.
 
 ## Loading & Alerts
 - [ ] You can see loading messages when the data i.e. the products are loading.
