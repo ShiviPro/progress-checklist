@@ -48,8 +48,12 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
   - [x] You can see the price details card of the cart containing a button to checkout which will show the total price of the products with its quantity.
 
 ## Address Management
-- [ ] You can add multiple addresses, update or delete them.
+- [x] You can add multiple addresses,
+- [ ] Update any address, or
+- [x] Delete any address.
 - [ ] You can choose a single address to deliver the order.
+
+_Note: There is a weird bug in address deletion logic, which causes the btn to work only 50% of all the times it's clicked. I will fix this next._
 
 ## Checkout
 - [ ] Once you choose the address, you can click on the checkout button which would show the order summary and a message - "Order Placed Successfully." Save orders placed in your backend.
