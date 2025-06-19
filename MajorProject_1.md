@@ -53,8 +53,6 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
 - [x] Delete any address.
 - [ ] You can choose a single address to deliver the order.
 
-_Note: There is a weird bug in address deletion logic, which causes the btn to work only 50% of all the times it's clicked. I will fix this next._
-
 ## Checkout
 - [ ] Once you choose the address, you can click on the checkout button which would show the order summary and a message - "Order Placed Successfully." Save orders placed in your backend.
 
