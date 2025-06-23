@@ -49,7 +49,7 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
 
 ## Address Management
 - [x] You can add multiple addresses,
-- [ ] Update any address, or
+- [x] Update any address, or
 - [x] Delete any address.
 - [ ] You can choose a single address to deliver the order.
 
