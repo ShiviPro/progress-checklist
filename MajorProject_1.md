@@ -58,7 +58,7 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
 
 ## User Profile
 - [x] You can see the user profile with details containing the name, email Id, phone number, address, etc. This data should be static.
-- [ ] You can give the option to Add new address from this page.
+- [x] You can give the option to Add new address from this page.
 - [x] You can give the option to see the order history from this page. Order History is all the orders placed previously.
 
 ## Loading & Alerts
