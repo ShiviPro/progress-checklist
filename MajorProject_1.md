@@ -54,7 +54,7 @@ Have a look at my code in this [GitHub Repo](https://github.com/ShiviPro/mizuki-
 - [ ] You can choose a single address to deliver the order.
 
 ## Checkout
-- [ ] Once you choose the address, you can click on the checkout button which would show the order summary and a message - "Order Placed Successfully." Save orders placed in your backend.
+- [x] Once you choose the address, you can click on the checkout button which would show the order summary and a message - "Order Placed Successfully." Save orders placed in your backend.
 
 ## User Profile
 - [x] You can see the user profile with details containing the name, email Id, phone number, address, etc. This data should be static.
